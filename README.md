@@ -1,5 +1,5 @@
 # PKUAutoSubmit (modified)
-我曾见过太阳。
+我曾见过太阳
 
 **UPDATE 2020/10/18**
 
